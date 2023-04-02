@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello fork");
+    printf("Hello forkan fahim");
     return 0;
 }
